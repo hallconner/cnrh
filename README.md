@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hey there, I am [Conner](https://github.com/cnrh) 👋
 
-<!--
-**cnrh/cnrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Bronze Stats](https://github-readme-stats.vercel.app/api?username=cnrh&show_icons=true&theme=gruvbox)](https://github.com/cnrh)<br/>
 
-Here are some ideas to get you started:
+### 🤵 - About me 
+- > I currently develop in Javascript and Java.
+- > I have worked with big content creators such as TBNR & KOP Productions.
+- > Most of my work is closed source, I plan on releasing public sources soon.
+- > Currently studying Criminology & minoring in Computer Programming. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------
+### 🧠 - Skill Set
+- Java Development
+- Node JS
+- HTML & CSS
+------------
+
+### ⌨️ - Current Projects
+- > **[Wallet](https://discord.gg/F8mGmnEY3B)**
+  - > Modern Minecraft Prison Server created by me.
+------------
+
+For any other inquires please contact via **Discord**. ​
+
+## Contact Me 🖥️
+[![Contact me via discord](https://badges.krynn.dev/discord/?id=847284868647354388)](https://github.com/cnrh)

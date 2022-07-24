@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Conner (cnrh)</h1>
 <h3 align="center">Beginner Software Engineer</h3>
 
-<p align="center"><a href="https://discord.com/users/847284868647354388"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/847284868647354388"></a></p>
+<p align="center"><a href="https://discord.com/users/847284868647354388"><img align="center" src="https://lanyard.cnrad.dev/api/847284868647354388"></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cnrh&label=Profile%20views&color=0e75b6&style=flat-square" alt="reportcardsmc" /> </p>
 <h3 align="left">Languages and Tools:</h3>

@@ -1,27 +1,12 @@
-## Hey there, I am [Conner](https://github.com/cnrh) 👋
+<h1 align="center">Hi 👋, I'm Conner (cnrh)</h1>
+<h3 align="center">Beginner Software Engineer</h3>
 
-[![Bronze Stats](https://github-readme-stats.vercel.app/api?username=cnrh&show_icons=true&theme=gruvbox)](https://github.com/cnrh)<br/>
-[![My Discord](https://discord-readme-badge.vercel.app/api?id=847284868647354388)]
+<p align="center"><a href="https://discord.com/users/847284868647354388"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/847284868647354388"></a></p>
 
-### 🤵 - About me 
-- > I currently develop in Javascript and Java.
-- > I have worked with big content creators such as TBNR & KOP Productions.
-- > Most of my work is closed source, I plan on releasing public sources soon.
-- > Currently studying Criminology & minoring in Computer Programming. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cnrh&label=Profile%20views&color=0e75b6&style=flat-square" alt="reportcardsmc" /> </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-------------
-### 🧠 - Skill Set
-- Java Development
-- Node JS
-- HTML & CSS
-------------
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cnrh&show_icons=true&theme=tokyonight&locale=en" alt="reportcardsmc" /></p>
 
-### ⌨️ - Current Projects
-- > **[Wallet](https://discord.gg/F8mGmnEY3B)**
-  - > Modern Minecraft Prison Server created by me.
-------------
-
-For any other inquires please contact via **Discord**. ​
-
-## Contact Me 🖥️
-[![Contact me via discord](https://badges.krynn.dev/discord/?id=847284868647354388)](https://github.com/cnrh)
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@cnrh&compact=True"/>

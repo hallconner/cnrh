@@ -9,4 +9,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cnrh&show_icons=true&theme=tokyonight&locale=en" alt="reportcardsmc" /></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@cnrh&compact=True"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnrh&layout=compact"/>

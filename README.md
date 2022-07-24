@@ -1,5 +1,4 @@
-<h1 align="center">Hey👋, I'm Conner (cnrh)</h1>
-<h3 align="center">Intermediate Developer</h3>
+<h1 align="center">Intermediate Developer</h1>
 
 <p align="center"><a href="https://discord.com/users/847284868647354388"><img align="center" src="https://lanyard.cnrad.dev/api/847284868647354388"></a></p>
 

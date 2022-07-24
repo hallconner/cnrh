@@ -12,4 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cnrh&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="cnrh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cnrh&show_icons=true&locale=en" alt="cnrh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cnrh&show_icons=true&locale=en&theme=blueberry" alt="cnrh" /></p>

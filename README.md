@@ -1,7 +1,7 @@
 ## Hey there, I am [Conner](https://github.com/cnrh) 👋
 
 [![Bronze Stats](https://github-readme-stats.vercel.app/api?username=cnrh&show_icons=true&theme=gruvbox)](https://github.com/cnrh)<br/>
-![My Discord](https://discord-readme-badge.vercel.app/api?id=847284868647354388)
+[![My Discord](https://discord-readme-badge.vercel.app/api?id=847284868647354388)]
 
 ### 🤵 - About me 
 - > I currently develop in Javascript and Java.

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Conner</h1>
-<h3 align="center">A beginner Developer from America</h3>
+<h3 align="center">Intermediate Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cnrh&label=Profile%20views&color=0e75b6&style=flat" alt="cnrh" /> </p>
 
